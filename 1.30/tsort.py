@@ -10,7 +10,7 @@ V = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 # Edges from exercise 1.30
 U = [(1, 8), (2, 6), (2, 9), (3, 8), (4, 9), (6, 1), (6, 8), (7, 5), (8, 7), (9, 8)]
 
-# Adding nodes and edges to the graph
+# Adding nodes and edges to the graphaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 G.add_nodes_from(V)
 G.add_edges_from(U)
 
